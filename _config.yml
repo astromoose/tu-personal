@@ -1,0 +1,11 @@
+pygments: true
+permalink: pretty
+
+title : These Slow Hands
+author :
+  name : Jon Anning
+  email : jon.anning@tue.mpg.de
+  github : astromoose
+  twitter : astromoose
+
+auto: true
